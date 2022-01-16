@@ -7,7 +7,7 @@ module.exports = {
   platform: 'github',
   includeForks: true,
   repositories: [
-    'renovate-tests/gomod1',
+    'cloud-harness',
   ],
   packageRules: [
     {
