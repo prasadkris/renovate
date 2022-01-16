@@ -7,8 +7,7 @@ module.exports = {
   platform: 'github',
   includeForks: true,
   repositories: [
-    'cloud-harness',
-    'test',
+    'prasadkris/cloud-harness',
   ],
   packageRules: [
     {
