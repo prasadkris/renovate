@@ -8,6 +8,7 @@ module.exports = {
   includeForks: true,
   repositories: [
     'cloud-harness',
+    'test',
   ],
   packageRules: [
     {
